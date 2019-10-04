@@ -1,0 +1,3 @@
+// req.query = para filtrar
+// req.params = para editar ou deletar
+// req.body = acessar corpo da requisição(criação, edição)
