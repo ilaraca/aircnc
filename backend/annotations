@@ -1,3 +1,4 @@
 // req.query = para filtrar
 // req.params = para editar ou deletar
 // req.body = acessar corpo da requisição(criação, edição)
+// biblioteca multer = lida com a parte de formatos multi-form data

@@ -2,7 +2,6 @@
 const User = require('../models/User');
 
 module.exports = {
-  // rota de login
   async store(req, res) {
     const { email } = req.body;
     let user = await User.findOne({ email });
